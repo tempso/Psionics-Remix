@@ -13,7 +13,7 @@
 
   PerScreenDPI=True
 
-  Font="字体 Size"
+  Font="Sans Bold 16"
 
   Theme=Psionics-Remix
   #+END_QUOTE
